@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-tube/static/css/main.7064deb2.css",
+    "main.js": "/my-tube/static/js/main.1f9822c3.js",
+    "index.html": "/my-tube/index.html",
+    "main.7064deb2.css.map": "/my-tube/static/css/main.7064deb2.css.map",
+    "main.1f9822c3.js.map": "/my-tube/static/js/main.1f9822c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.1f9822c3.js"
+  ]
+}
